@@ -1,0 +1,27 @@
+.container-fluid {
+    background:linear-gradient(rgba(255,255,255,0.5), rgba(255,255,255,0.5)), url("src/assets/images/nature_tree_sun.jpg");
+    /* background-image: url("src/assets/images/nature_tree_sun.jpg"); */
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    
+    
+}
+
+.carousell{
+    height:500px;
+    width:60%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+
+ .carousel-caption{
+     color: black;
+ }
+
+h2{
+    padding-top: 50px;
+}
+
